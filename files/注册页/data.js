@@ -1,0 +1,97 @@
+﻿$axure.loadCurrentPage({
+  "url":"注册页.html",
+  "generationDate":new Date(1463991111723.59),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"aac7f9b23ada4358b67f6a2f720f3c88",
+    "type":"Axure:Page",
+    "name":"注册页",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"536f30490e5a4993abd44e0c289f5028",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":561,
+              "height":910}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ddacc3aadff84255b8255f8eede32d24",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":561,
+                  "height":910}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/注册页/u0.PNG"}},
+{
+          "id":"273c7f2bcd1041d7ace461727fbdae20",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":70,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 我",
+                      "target":{
+                        "targetType":"page",
+                        "url":"我.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "536f30490e5a4993abd44e0c289f5028":{
+      "scriptId":"u0"},
+    "ddacc3aadff84255b8255f8eede32d24":{
+      "scriptId":"u1"},
+    "273c7f2bcd1041d7ace461727fbdae20":{
+      "scriptId":"u2"}}});

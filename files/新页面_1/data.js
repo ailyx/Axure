@@ -1,0 +1,97 @@
+﻿$axure.loadCurrentPage({
+  "url":"新页面_1.html",
+  "generationDate":new Date(1463991111615.59),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"5604106363fc463e80c01e1db8c1d2bb",
+    "type":"Axure:Page",
+    "name":"新页面 1",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"3bc359f65a554bb998b78e713a53f797",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":561,
+              "height":957}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cfce262b9e8142468cb762792b1e3dbf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":561,
+                  "height":957}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/新页面_1/u0.PNG"}},
+{
+          "id":"2ffca4c7f9e44fdbb3c9aa26de44755e",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":20,
+              "y":0},
+            "size":{
+              "width":80,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 产品",
+                      "target":{
+                        "targetType":"page",
+                        "url":"产品.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "3bc359f65a554bb998b78e713a53f797":{
+      "scriptId":"u0"},
+    "cfce262b9e8142468cb762792b1e3dbf":{
+      "scriptId":"u1"},
+    "2ffca4c7f9e44fdbb3c9aa26de44755e":{
+      "scriptId":"u2"}}});

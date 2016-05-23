@@ -1,0 +1,97 @@
+﻿$axure.loadCurrentPage({
+  "url":"资产.html",
+  "generationDate":new Date(1463991111649.59),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"3a9d22baf6de4558bf4d69bc8cfd40cd",
+    "type":"Axure:Page",
+    "name":"资产",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"290385a3de764efca09fac6756e2d9be",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":561,
+              "height":889}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"64b5be258c774fad8cf52d559c542b3d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":561,
+                  "height":889}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/资产/u0.jpg"}},
+{
+          "id":"2d33a2d7102f45169d0de6c4fd75e3b2",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":710},
+            "size":{
+              "width":470,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 注册页",
+                      "target":{
+                        "targetType":"page",
+                        "url":"注册页.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "290385a3de764efca09fac6756e2d9be":{
+      "scriptId":"u0"},
+    "64b5be258c774fad8cf52d559c542b3d":{
+      "scriptId":"u1"},
+    "2d33a2d7102f45169d0de6c4fd75e3b2":{
+      "scriptId":"u2"}}});

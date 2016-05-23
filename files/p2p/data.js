@@ -1,0 +1,162 @@
+﻿$axure.loadCurrentPage({
+  "url":"p2p.html",
+  "generationDate":new Date(1463991110271.51),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"f1519b54e72a468e8939a88eab5e30f1",
+    "type":"Axure:Page",
+    "name":"P2P",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"9315263567f1480d88c1ee98deeb47f1",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":636,
+              "height":1300}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a2296f6f603146928d4ef9345de4732c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":636,
+                  "height":1300}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/p2p/u0.png"}},
+{
+          "id":"6ded8c16010b4061a0398d1e79c9da72",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":37,
+              "y":150},
+            "size":{
+              "width":561,
+              "height":35}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6e02c0143f524fcea172bf02fc18c3dc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":37,
+                  "y":150},
+                "size":{
+                  "width":561,
+                  "height":35}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/p2p/u2.png"}},
+{
+          "id":"f1915735b51b4aa5baded25b08fbc73b",
+          "label":"P2Pkuangjia",
+          "type":"inlineFrame",
+          "styleType":"inlineFrame",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":37,
+              "y":183},
+            "size":{
+              "width":561,
+              "height":963}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"ed299e60d9834cfb91ff6123d1779087",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"16px",
+            "lineSpacing":"24px",
+            "location":{
+              "x":646,
+              "y":80},
+            "size":{
+              "width":374,
+              "height":360}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a34a0db744b94c65a96ea3a1d20f208e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "lineSpacing":"24px",
+                "location":{
+                  "x":646,
+                  "y":80},
+                "size":{
+                  "width":374,
+                  "height":360}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "9315263567f1480d88c1ee98deeb47f1":{
+      "scriptId":"u0"},
+    "a2296f6f603146928d4ef9345de4732c":{
+      "scriptId":"u1"},
+    "6ded8c16010b4061a0398d1e79c9da72":{
+      "scriptId":"u2"},
+    "6e02c0143f524fcea172bf02fc18c3dc":{
+      "scriptId":"u3"},
+    "f1915735b51b4aa5baded25b08fbc73b":{
+      "scriptId":"u4"},
+    "ed299e60d9834cfb91ff6123d1779087":{
+      "scriptId":"u5"},
+    "a34a0db744b94c65a96ea3a1d20f208e":{
+      "scriptId":"u6"}}});
